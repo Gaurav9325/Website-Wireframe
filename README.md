@@ -1,3 +1,3 @@
 # Website-Wireframe
 
-ebsite wireframe
+Website wireframe
